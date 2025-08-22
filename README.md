@@ -42,7 +42,7 @@ To use this userscript, you will need a userscript manager extension installed i
 
 ```
 deTube_reverse_playlists/
-├── deTube_reverse_playlists.js  # Main userscript file
+├── detube_reverse_playlists.js  # Main userscript file
 ├── README.md                    # This file
 └── LICENSE                      # MIT License
 ```
